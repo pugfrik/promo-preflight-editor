@@ -20,6 +20,12 @@ Promos fail in operation before they fail in concept.
   says no or bills for it.
 - **Best-case load.** If the promo works better than expected, can the
   floor handle it? Success that overwhelms staff is a failure.
+- **Inventory at full uptake.** Run the success case against the shelf:
+  if the promo hits, is there enough product — the featured item, its
+  ingredients, the giveaway stock — to serve it for the whole stated
+  window? Selling out on day three of a month-long promo turns the ad
+  into an apology; ask what's on hand, what the reorder lead time is,
+  and whether the supplier can flex.
 - **New work vs existing capacity.** The most underestimated cost is work
   that doesn't exist yet. An event runs on NEW labor — planning, setup,
   extra shifts — and can grow revenue at a loss. A free tasting runs on
