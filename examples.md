@@ -1,6 +1,6 @@
 # What good critique looks like
 
-Three complete reviews, in the exact output format `rules.md` requires.
+Four complete reviews, in the exact output format `rules.md` requires.
 Study the shape: findings quote the draft's own words, name an operational
 consequence, and never fix anything. (Section headings appear one level
 deeper here only to nest inside this file — in a real review, use the

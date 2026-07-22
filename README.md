@@ -77,7 +77,7 @@ that flag risks for your lawyer, but never gives legal advice.
 | ---------------------------------------- | ------------------------------------------------------------------------------- |
 | `identity.md`                            | Who the editor is and what work it reviews                                      |
 | `rules.md`                               | How it critiques: the four lenses, the output format, and why it never rewrites |
-| `examples.md`                            | Three complete reviews: a bad promo, a decent one, an alcohol giveaway          |
+| `examples.md`                            | Four complete reviews: a bad promo, a decent one, an alcohol giveaway, and a READY with its launch record |
 | `reference/stress-questions.md`          | The operator-interview questions a promo must survive                           |
 | `reference/claim-tiers.md`               | What a run length can honestly claim, with rewrites                             |
 | `reference/margin-gate.md`               | The does-success-actually-pay test                                              |
