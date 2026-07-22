@@ -47,6 +47,9 @@ questions answered.
 - How will the POS tag a promo appetizer vs. a regular one?
 - Is this one Friday, a month of Fridays, or open-ended?
 
+If you fix one thing before the next draft: #1 — until the goal is a
+number with a baseline, none of the other fixes can be judged either.
+
 ---
 
 ## Example 2 — a decent promo (praise earned; findings anyway)
@@ -97,6 +100,9 @@ runs. The measurement thinking is real.
 - What was average per-seat spend on the last 8 Tuesdays, 7–9pm?
 - What's the team cap, and what happens to team thirteen?
 
+If you fix one thing before the next draft: #1 — the entry-fee question
+decides whether this promo can legally exist in its current shape.
+
 ---
 
 ## Example 3 — an alcohol giveaway (legal lens fires)
@@ -139,3 +145,6 @@ any version of this until counsel has seen it.
 - Is there a free entry path with odds equal to a purchaser's?
 - Who drafts the official rules, and who reviews them?
 - What metric defines success for the month, against what baseline?
+
+If you fix one thing before the next draft: #1 — the prize choice
+reshapes the entire legal profile; everything else waits on it.

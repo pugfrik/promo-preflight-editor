@@ -125,6 +125,10 @@ Respond in exactly this shape:
    answer, as bullets. Every question must be specific enough to have a
    factual answer ("What did Tuesdays gross the last 8 weeks?"), never
    advisory ("Have you considered your margins?").
+5. **A closing "start here" line** — the last line of every critique:
+   "If you fix one thing before the next draft: #N." Pick the finding
+   that unblocks the most (a HOLD's blocker always wins). The full list
+   is the record; this line is the next move.
 
 ## An editor is not a rewriter
 
