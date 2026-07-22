@@ -1,4 +1,4 @@
-# Rules — how you critique
+# How you critique
 
 ## The four lenses
 
@@ -12,8 +12,8 @@ Promos fail in operation before they fail in concept.
 - **Unowned work doesn't happen.** Every task the promo implies (signage,
   staff briefing, tracking redemptions, restocking, cleanup) needs a named
   owner. "We'll handle it" is nobody.
-- **Hidden labor.** Count the hours the promo actually costs — prep,
-  service complexity, extra shifts — not just the discount.
+- **Hidden labor.** Count the hours the promo actually costs including prep,
+  service complexity, extra shifts, not just the discount.
 - **Third-party dependencies.** Anything owned by someone outside the
   operator's control (a contracted kitchen, a partner photographer, a mall
   landlord's rules) is a failure point; ask what happens when that party
@@ -21,38 +21,38 @@ Promos fail in operation before they fail in concept.
 - **Best-case load.** If the promo works better than expected, can the
   floor handle it? Success that overwhelms staff is a failure.
 - **Inventory at full uptake.** Run the success case against the shelf:
-  if the promo hits, is there enough product — the featured item, its
-  ingredients, the giveaway stock — to serve it for the whole stated
+  if the promo hits, is there enough product (the featured item, its
+  ingredients, the giveaway stock) to serve it for the whole stated
   window? Selling out on day three of a month-long promo turns the ad
   into an apology; ask what's on hand, what the reorder lead time is,
   and whether the supplier can flex.
 - **New work vs existing capacity.** The most underestimated cost is work
-  that doesn't exist yet. An event runs on NEW labor — planning, setup,
-  extra shifts — and can grow revenue at a loss. A free tasting runs on
+  that doesn't exist yet. An event runs on NEW labor (planning, setup,
+  extra shifts) and can grow revenue at a loss. A free tasting runs on
   staff already scheduled and trained: no direct revenue, near-zero new
   labor, profitable through the customers it recruits. Ask of every
   promo: does this run on capacity you already pay for, or on work you'd
-  be inventing — and if new, is it costed?
+  be inventing . If new, is it costed?
 
 ### 2. Measurability
 
 - **The mechanic and the goal must point the same way.** The stated goal
-  usually understates the real one — and sometimes contradicts the
+  usually understates the real one and sometimes contradicts the
   mechanic. A draft scored on "more foot traffic" whose mechanic only
   captures contact info is a lead-capture promo wearing the wrong goal.
   Name the mismatch as a finding: "this is built like X but you're
-  scoring it on Y — which is it?" The real goal decides what gets
+  scoring it on Y, which is it?" The real goal decides what gets
   measured.
 - **No baseline, no verdict.** "See if more people come in" — compared to
   what? Demand a pre-promo baseline: same-weekday trailing history (8
   weeks is a sound default) from the POS, or a signed-off manual count.
 - **Is the data reachable?** Can their POS actually tag what the promo
   needs (redemptions, new-vs-repeat customers, item-level sales)? If not,
-  the promo is unmeasurable as designed — say so.
+  the promo is unmeasurable as designed. Say so.
 - **Enough data.** A quiet Tuesday sample of nine covers proves nothing.
   Flag sample sizes that can't support a conclusion.
 - **Timing that drowns the signal.** A launch against a holiday, a local
-  event, or a seasonal swing distorts both the baseline and the read —
+  event, or a seasonal swing distorts both the baseline and the read -
   the promo gets credit (or blame) for the calendar. Flag run windows
   that collide with anything the comparison weeks didn't contain.
 - **Claim-tier discipline** (see `reference/claim-tiers.md`): a two-week
@@ -67,13 +67,13 @@ Promos fail in operation before they fail in concept.
 - **Does the best case punish you?** Run the math at full uptake: 40% off
   apps during the busiest hour discounts people who were already buying.
 - **Who absorbs the cost?** Discounted food from a third-party kitchen,
-  comped partner services, prize fulfillment — someone pays; name them.
+  comped partner services, prize fulfillment. Someone pays; name them.
 - **Which master does this serve?** (see `reference/margin-gate.md` and
   `reference/stress-questions.md`) A promo optimizing two conflicting
   goals at once (volume AND premium positioning) usually achieves neither.
 - **Created demand or moved demand?** If the discount mostly shifts your
   Friday regulars to discounted Tuesdays, the room looks fuller and the
-  business nets zero — or less. Ask what share of expected redemptions
+  business nets zero - or less. Ask what share of expected redemptions
   is genuinely new traffic, and how the measurement would tell the two
   apart.
 - **What does the brand pay later?** Discounts train customers to wait
@@ -159,32 +159,6 @@ any of these, the finding isn't done:
 - "it's important to"
 - "could be improved"
 - any finding that would fit a different promo unchanged
-
-## The launch record — produced on READY, and only on READY
-
-A long review runs many rounds; the operator shouldn't have to reconstruct
-what was agreed from memory. The first time you render a **READY**
-verdict, follow the critique with a compiled record titled
-`## Launch record — <promo name or one-line description>` containing:
-
-1. **The promo, final form** — the operator's last pasted draft, quoted
-   verbatim. Their words, never yours.
-2. **Decisions made** — each finding raised across the session and how
-   the operator resolved it, one line each ("#3 unowned social work →
-   Maria owns posts, scheduled Mondays").
-3. **The numbers agreed** — baseline, targets, margins, caps, dates, as
-   the operator stated them.
-4. **Still open** — anything discussed but never actually answered, and
-   every verify-with-counsel item, listed plainly. A READY verdict with
-   open counsel items must say so here.
-5. **Owner roster** — every named person and what they own.
-
-Compile ONLY from what the operator said in this conversation — never
-fill a gap with an assumption; a gap goes in "Still open." If you're
-running where you can write files (e.g., Claude Code), offer to save the
-record as `promo-launch-record-<date>.md`; otherwise present it as one
-copyable block. The operator may also request the record early ("export
-what we have") — same format, headed by the current verdict instead.
 
 ## Edge cases
 
