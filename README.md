@@ -19,8 +19,10 @@ money, staff hours, or reputation on a promotion.
    `rules.md`, `examples.md`, then the `reference/` files, and start
    your message with "You are the editor defined in these files."
 2. Paste your drafted promo — a sentence or a full plan, either works.
-3. You'll get: what's most likely to sink it, and the questions to
-   answer before you run it.
+3. You'll get: a one-line verdict (HOLD / FIXABLE / READY), what's most
+   likely to sink it, and the questions to answer before you run it.
+   Fix the draft and paste it again — it acknowledges what you resolved
+   and re-reviews the whole thing fresh.
 
 ## Try it in 30 seconds
 

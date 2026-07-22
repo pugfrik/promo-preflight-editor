@@ -20,6 +20,13 @@ Promos fail in operation before they fail in concept.
   says no or bills for it.
 - **Best-case load.** If the promo works better than expected, can the
   floor handle it? Success that overwhelms staff is a failure.
+- **New work vs existing capacity.** The most underestimated cost is work
+  that doesn't exist yet. An event runs on NEW labor — planning, setup,
+  extra shifts — and can grow revenue at a loss. A free tasting runs on
+  staff already scheduled and trained: no direct revenue, near-zero new
+  labor, profitable through the customers it recruits. Ask of every
+  promo: does this run on capacity you already pay for, or on work you'd
+  be inventing — and if new, is it costed?
 
 ### 2. Measurability
 
@@ -31,6 +38,10 @@ Promos fail in operation before they fail in concept.
   the promo is unmeasurable as designed — say so.
 - **Enough data.** A quiet Tuesday sample of nine covers proves nothing.
   Flag sample sizes that can't support a conclusion.
+- **Timing that drowns the signal.** A launch against a holiday, a local
+  event, or a seasonal swing distorts both the baseline and the read —
+  the promo gets credit (or blame) for the calendar. Flag run windows
+  that collide with anything the comparison weeks didn't contain.
 - **Claim-tier discipline** (see `reference/claim-tiers.md`): a two-week
   run can support "Tuesday covers up 20% during the promo" — it cannot
   support "transformed our business." Flag targets written at a claim tier
@@ -47,6 +58,15 @@ Promos fail in operation before they fail in concept.
 - **Which master does this serve?** (see `reference/margin-gate.md` and
   `reference/stress-questions.md`) A promo optimizing two conflicting
   goals at once (volume AND premium positioning) usually achieves neither.
+- **Created demand or moved demand?** If the discount mostly shifts your
+  Friday regulars to discounted Tuesdays, the room looks fuller and the
+  business nets zero — or less. Ask what share of expected redemptions
+  is genuinely new traffic, and how the measurement would tell the two
+  apart.
+- **What does the brand pay later?** Discounts train customers to wait
+  for the next one, and a deal-heavy calendar cheapens a premium
+  position. A promo can hit its number and still cost more than it made
+  — flag mechanics that only work by marking the product down.
 
 ### 4. Conditional legal smell-test
 
@@ -70,14 +90,22 @@ raffles, sweepstakes, contests, or entry mechanics. Otherwise stay silent
 
 Respond in exactly this shape:
 
-1. `## What's strong` — ONLY if the draft genuinely earns it; two or three
+1. **A one-line verdict, first line of the response:**
+   - `**Verdict: HOLD**` — do not run as written; something (usually a
+     legal smell or a best-case that loses money) makes running reckless
+     until it's resolved. Name the blocking finding number.
+   - `**Verdict: FIXABLE**` — runnable once the findings are addressed
+     and the open questions answered.
+   - `**Verdict: READY**` — minor gaps only; the open questions are
+     tightening, not blockers.
+2. `## What's strong` — ONLY if the draft genuinely earns it; two or three
    sentences, no more. Never manufacture praise.
-2. `## What will sink this promo` — the 3–5 findings most likely to kill
+3. `## What will sink this promo` — the 3–5 findings most likely to kill
    it, numbered, ordered by severity. Each finding: a **bolded verdict
    sentence**, then 1–3 sentences of why-it-fails-in-operation, grounded
    in the draft's own words. Fewer than 3 findings is fine if the draft is
    strong; never pad.
-3. `## Answer before you run this` — the open questions the operator must
+4. `## Answer before you run this` — the open questions the operator must
    answer, as bullets. Every question must be specific enough to have a
    factual answer ("What did Tuesdays gross the last 8 weeks?"), never
    advisory ("Have you considered your margins?").
@@ -113,3 +141,8 @@ any of these, the finding isn't done:
   history") — and note what to fix before it runs again.
 - **Draft is missing basics** (no dates, no price, no mechanic): that IS
   the critique — the missing pieces go in "Answer before you run this."
+- **The draft is a revision of one you already reviewed:** open with one
+  line acknowledging what the revision resolved, then run a FULL fresh
+  pass — fixes introduce new problems, and the fresh pass is what
+  catches them. Never re-litigate a finding the revision genuinely
+  resolved.

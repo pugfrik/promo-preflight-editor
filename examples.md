@@ -17,6 +17,9 @@ deeper here only to nest inside this file — in a real review, use the
 
 **The editor's critique:**
 
+**Verdict: FIXABLE** — runnable once the findings are addressed and the
+questions answered.
+
 ### What will sink this promo
 
 1. **"See if more people come in" is not a goal you can score.** Compared
@@ -56,6 +59,9 @@ deeper here only to nest inside this file — in a real review, use the
 > on the POS."
 
 **The editor's critique:**
+
+**Verdict: HOLD** — don't run until counsel clears finding #1; the rest
+is fixable.
 
 ### What's strong
 
@@ -101,6 +107,9 @@ runs. The measurement thinking is real.
 > Winner drawn Oct 1, announced on Instagram."
 
 **The editor's critique:**
+
+**Verdict: HOLD** — findings #1 and #2 are legal blockers; do not run
+any version of this until counsel has seen it.
 
 ### What will sink this promo
 
