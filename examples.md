@@ -1,4 +1,4 @@
-# Examples — what good critique looks like
+# What good critique looks like
 
 Three complete reviews, in the exact output format `rules.md` requires.
 Study the shape: findings quote the draft's own words, name an operational
@@ -56,7 +56,7 @@ number with a baseline, none of the other fixes can be judged either.
 
 **The draft:**
 
-> "Tuesday Trivia Night, 7–9pm, starting Sept 2. $5 entry per team
+> "Tuesday Trivia Night, 7–9pm, starting Sept 2. 5 dollars entry per team
 > donated to the local food bank; winning team gets a $25 gift card.
 > Sarah owns setup + hosting; we'll track covers vs the last 8 Tuesdays
 > on the POS."
@@ -148,3 +148,91 @@ any version of this until counsel has seen it.
 
 If you fix one thing before the next draft: #1 — the prize choice
 reshapes the entire legal profile; everything else waits on it.
+
+---
+
+## Example 4 — a ready promo (verdict READY + the launch record)
+
+Context: this is the operator's THIRD paste of the session. Round 1
+raised four findings (no target/baseline, uncosted discount vs. dues,
+unowned member tracking, mug inventory at full uptake); round 2 the
+operator answered all four with numbers and named an owner, and the
+editor raised one counsel question (dues-linked per-pour discount),
+which the operator agreed to take to their lawyer.
+
+**The draft (final revision):**
+
+> "Mug Club: $60/year. Numbered mug (120 ordered), $1 off every pour in
+> your mug. Target: 100 members in first 90 days, tracked in Square
+> Loyalty by Jess. Launch Sept 1."
+
+**The editor's critique:**
+
+**Verdict: READY** — this revision resolves the four findings from
+before; the gaps left are tightening, not blockers.
+
+### What's strong
+
+Numbers, owner, target, and inventory all now match each other: 120 mugs
+against a 100-member target leaves headroom, Jess owns the tracking, and
+the $60/$11/$4.40 math from last round holds up. This is close to
+launchable.
+
+### What will sink this promo
+
+1. **The discount rides the mug, not the membership.** "$1 off every
+   pour in your mug" pays out to whoever is holding mug #47, not
+   necessarily member #47. Nothing in the draft says a bartender checks
+   the mug against the member list at the pour, so a lost or borrowed
+   mug leaks the discount and nobody would know.
+2. **Membership is tracked; redemptions aren't.** "Tracked in Square
+   Loyalty by Jess" covers sign-ups toward the 100-member target — it
+   says nothing about logging each $1-off pour, so there's no way to
+   confirm the $4.40-contribution math is what's actually happening at
+   the bar.
+
+### Answer before you run this
+
+- How does a bartender confirm the mug belongs to the person holding
+  it, before applying the discount?
+- Will Square log each $1-off redemption as its own event, separate
+  from the membership count?
+- Has the discount-depth question gone to counsel yet?
+
+If you fix one thing before the next draft: #1 — until there's a check
+at the point of pour, the number on the mug is a decoration, not a
+control.
+
+### Launch record — Mug Club
+
+1. **The promo, final form**
+   > "Mug Club: $60/year. Numbered mug (120 ordered), $1 off every pour
+   > in your mug. Target: 100 members in first 90 days, tracked in
+   > Square Loyalty by Jess. Launch Sept 1."
+2. **Decisions made**
+   - #1 measurability → goal set at 100 members in 90 days, baseline
+     zero (new program).
+   - #2 margin → average pour $7, cost $1.60, $1 off leaves $4.40
+     contribution; $60 dues covers the $11 mug cost up front.
+   - #3 unowned work → Jess owns sign-ups and the member list in Square
+     Loyalty.
+   - #4 mug inventory at full uptake → 120 mugs ordered against a
+     100-member target, 6-week reorder lead time.
+   - Counsel question raised on dues-linked per-pour alcohol discount
+     (~14% off) → operator taking it to their lawyer next week.
+3. **The numbers agreed**
+   - Dues $60/year · mug cost $11 · discount $1 off per pour.
+   - Average pour $7 gross, $1.60 cost, $4.40 contribution after
+     discount.
+   - Target: 100 members / 90 days, baseline zero. Mugs: 120 on hand,
+     6-week reorder. Launch Sept 1.
+4. **Still open**
+   - Counsel has not yet reviewed the dues-linked per-pour discount —
+     verify with counsel before running this.
+   - No mechanic stated for verifying mug ownership at the pour
+     (finding #1).
+   - No redemption tracking separate from sign-ups (finding #2).
+5. **Owner roster**
+   - Jess — member sign-ups and the member list in Square Loyalty.
+   - No owner yet named for pour-time verification or redemption
+     logging.
