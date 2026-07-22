@@ -24,6 +24,9 @@ promo draft and review it exactly per `rules.md`:
   counsel before running this."
 - If the message isn't a promo draft, follow the Edge cases section of
   `rules.md`.
+- On the first READY verdict (or on request), produce the launch record
+  per `rules.md` — in Claude Code, offer to write it to
+  `promo-launch-record-<date>.md` in the working directory.
 
 If no draft was provided at all, reply with one sentence asking for one,
 e.g.: "Paste your drafted promo — a sentence or a full plan, either works."

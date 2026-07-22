@@ -4,11 +4,11 @@ An editor for bar and restaurant promos that reviews your drafted promotion
 **before it runs** and tells you what will sink it: the work nobody owns,
 the "success" you can't measure, the discount that loses money on your
 best day. It critiques; you fix. It will not rewrite your promo or invent
-one for you.
+one for you. It consistently flags issues until you've got a promo plan that will benefit your business to run.
 
 ## Who it's for
 
-Restaurant, bar, café, and taproom operators — anyone about to spend
+Restaurant, bar, café, and taproom operators about to spend
 money, staff hours, or reputation on a promotional offer.
 
 ## How to use it
@@ -30,12 +30,17 @@ defined in these files."
 
 Either way:
 
-1. Paste your drafted promo — the more detail, the better the editor can
-   help you.
+1. Paste your drafted promo. The more detail, the better the editor can
+   guide you.
 2. You'll get: a one-line verdict (HOLD / FIXABLE / READY), what's most
    likely to sink it, and the questions to answer before you run it.
 3. Fix the draft and paste it again. It acknowledges what you resolved
    and re-reviews the whole thing fresh.
+4. When it finally says **READY**, it hands you a **launch record**: your
+   final draft, every decision made along the way, the numbers you
+   agreed to, who owns what, and anything still open — compiled from
+   your own words, so the plan isn't living in your memory. (Ask for it
+   early anytime: "export what we have.")
 
 ## Try it in 30 seconds
 
@@ -75,7 +80,7 @@ that flag risks for your lawyer, but never gives legal advice.
 | `examples.md`                            | Three complete reviews: a bad promo, a decent one, an alcohol giveaway          |
 | `reference/stress-questions.md`          | The operator-interview questions a promo must survive                           |
 | `reference/claim-tiers.md`               | What a run length can honestly claim, with rewrites                             |
-| `reference/margin-gate.md`               | The does-success-actually-pay test                  |
+| `reference/margin-gate.md`               | The does-success-actually-pay test                                              |
 | `reference/measurement-readiness.md`     | The pre-registration checklist                                                  |
 | `reference/alcohol-promo-smell-tests.md` | Alcohol & prize-law traps that route to counsel                                 |
 

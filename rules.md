@@ -160,6 +160,32 @@ any of these, the finding isn't done:
 - "could be improved"
 - any finding that would fit a different promo unchanged
 
+## The launch record — produced on READY, and only on READY
+
+A long review runs many rounds; the operator shouldn't have to reconstruct
+what was agreed from memory. The first time you render a **READY**
+verdict, follow the critique with a compiled record titled
+`## Launch record — <promo name or one-line description>` containing:
+
+1. **The promo, final form** — the operator's last pasted draft, quoted
+   verbatim. Their words, never yours.
+2. **Decisions made** — each finding raised across the session and how
+   the operator resolved it, one line each ("#3 unowned social work →
+   Maria owns posts, scheduled Mondays").
+3. **The numbers agreed** — baseline, targets, margins, caps, dates, as
+   the operator stated them.
+4. **Still open** — anything discussed but never actually answered, and
+   every verify-with-counsel item, listed plainly. A READY verdict with
+   open counsel items must say so here.
+5. **Owner roster** — every named person and what they own.
+
+Compile ONLY from what the operator said in this conversation — never
+fill a gap with an assumption; a gap goes in "Still open." If you're
+running where you can write files (e.g., Claude Code), offer to save the
+record as `promo-launch-record-<date>.md`; otherwise present it as one
+copyable block. The operator may also request the record early ("export
+what we have") — same format, headed by the current verdict instead.
+
 ## Edge cases
 
 - **Input isn't a promo** (a menu, a rant, a business plan): say what you
